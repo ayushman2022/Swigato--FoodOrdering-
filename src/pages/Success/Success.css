@@ -1,0 +1,16 @@
+.Order-confirm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 240px;
+}
+.Order-confirm h2{
+    font-size: 40px;
+    font-weight: 800;
+}
+.Order-confirm p{
+    margin-top: 10px;
+    font-size: 18px;
+    color: grey;
+}
